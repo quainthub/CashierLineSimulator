@@ -1,0 +1,15 @@
+G:\C#\CashierLineSimulator\CashierLineSimulator\bin\Debug\net6.0\CashierLineSimulator.exe
+G:\C#\CashierLineSimulator\CashierLineSimulator\bin\Debug\net6.0\CashierLineSimulator.deps.json
+G:\C#\CashierLineSimulator\CashierLineSimulator\bin\Debug\net6.0\CashierLineSimulator.runtimeconfig.json
+G:\C#\CashierLineSimulator\CashierLineSimulator\bin\Debug\net6.0\CashierLineSimulator.dll
+G:\C#\CashierLineSimulator\CashierLineSimulator\bin\Debug\net6.0\CashierLineSimulator.pdb
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\CashierLineSimulator.csproj.AssemblyReference.cache
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\CashierLineSimulator.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\CashierLineSimulator.AssemblyInfoInputs.cache
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\CashierLineSimulator.AssemblyInfo.cs
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\CashierLineSimulator.csproj.CoreCompileInputs.cache
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\CashierLineSimulator.dll
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\refint\CashierLineSimulator.dll
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\CashierLineSimulator.pdb
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\CashierLineSimulator.genruntimeconfig.cache
+G:\C#\CashierLineSimulator\CashierLineSimulator\obj\Debug\net6.0\ref\CashierLineSimulator.dll

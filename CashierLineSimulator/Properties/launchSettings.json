@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CashierLineSimulator": {
+      "commandName": "Project",
+      "commandLineArgs": "G:\\C#\\CashierLineSimulator\\Files\\input.txt"
+    }
+  }
+}
